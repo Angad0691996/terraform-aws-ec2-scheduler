@@ -79,3 +79,6 @@ AUTHOR
 ------------------------------------------------------
 Angad BAndal
 
+<img width="1635" height="1900" alt="ec2-cost-optimization-architecture" src="https://github.com/user-attachments/assets/43d77e24-a1e1-428e-b7fb-ef3ad411d789" />
+
+
