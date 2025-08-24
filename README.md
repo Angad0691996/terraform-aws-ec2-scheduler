@@ -6,8 +6,8 @@ This project automates the start and stop of an AWS EC2 instance at specific tim
 ------------------------------------------------------
 FEATURES
 ------------------------------------------------------
-- Automatically starts EC2 at 4:00 PM IST.
-- Automatically stops EC2 at 4:30 PM IST.
+- Automatically starts EC2 at 09:00 AM IST.
+- Automatically stops EC2 at 21:00 PM IST.
 - Uses a single Lambda function for both actions (start/stop).
 - Infrastructure fully managed with Terraform.
 - Cost-effective (Lambda & EventBridge are free for this use case).
